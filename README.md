@@ -7,7 +7,7 @@ Desenvolvedor Web e Helph Desk
 Estudante de Sistemas de Informação na Unifacs, estou no terceiro semestre do curso. Especializado em desenvolvimento web com HTML, CSS, JavaScript e Java. Crio aplicações web focadas na usabilidade e desafio. Suporte técnico especializado em soluções de TI e resolução de problemas com foco na experiência do usuário.
 
 * 🌍 Estou baseado em Salvador, Bahia, Brasil.
-* veja meu portfólio em[M](http://https://github.com/WendsonPureza?tab=repositories) [Meu portfólio](http://https://github.com/WendsonPureza?tab=repositórios)
+* veja meu portfólio em [[M](http://https://github.com/WendsonPureza?tab=repositories) [Meu portfólio](http://https://github.com/WendsonPureza?tab=repositórios)](https://github.com/WendsonPureza?tab=repositories)
 * você pode entrar em contato comigo em: wendsonpureza22@outlook.com
 * 🧠 Estou a aprender REACT, HTML, CSS, JS, JAVA.
 * 🤝 Estou aberto a colaborar em projetos.
