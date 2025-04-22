@@ -8,7 +8,7 @@ Estudante de Sistemas de Informação na Unifacs, estou no terceiro semestre do 
 
 * 🌍 Estou baseado em Salvador, Bahia, Brasil.
 * veja meu portfólio em[M](http://https://github.com/WendsonPureza?tab=repositories) [Meu portfólio](http://https://github.com/WendsonPureza?tab=repositórios)
-* você pode entrar em contato comigo em[w](mailto:we) [e-mail: wendsonpureza22@outlook.co](mailto:wendsonpureza22@outlook.com)
+* você pode entrar em contato comigo em: wendsonpureza22@outlook.com
 * 🧠 Estou a aprender REACT, HTML, CSS, JS, JAVA.
 * 🤝 Estou aberto a colaborar em projetos.
 ### Habilidades
